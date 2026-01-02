@@ -782,6 +782,7 @@
 
 ### Miscellaneous
 
+- [Replane](https://github.com/replane-dev/replane) - Dynamic configuration manager for feature flags, app settings, and operational config with version history, approvals, and realtime sync.
 - [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
